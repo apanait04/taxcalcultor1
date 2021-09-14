@@ -13,6 +13,7 @@ import javax.persistence.*;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class ReviewEntity {
 
     @Id
@@ -31,4 +32,5 @@ public class ReviewEntity {
 
     @Column(name = "message")
     private String message;
+
 }
