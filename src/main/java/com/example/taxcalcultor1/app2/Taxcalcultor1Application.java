@@ -1,4 +1,4 @@
-package app;
+package com.example.taxcalcultor1.app2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
